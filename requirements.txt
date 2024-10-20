@@ -22,4 +22,6 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+psycopg2-binary==2.9.6
+SQLAlchemy==2.0.21
 -e . # install us-visa as a local package for the use
